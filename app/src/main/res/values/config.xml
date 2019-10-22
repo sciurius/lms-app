@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Logitech Media Server</string>
+    <string name="server">http://lms.squirrel.nl/material/mobile</string>
+    <bool   name="fullscreen">true</bool>
+    <bool   name="progressbar">true</bool>
+    <string name="clear_task_on_launch">false</string>
+    <string name="loading">Loading…</string>
+</resources>
