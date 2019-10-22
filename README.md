@@ -1,4 +1,4 @@
-This a a trivial Android app that interfaces with a Logitech Media
+This is a trivial Android app that interfaces with a Logitech Media
 Server.
 
 It does not do this by using the server API, but it provides a web view
